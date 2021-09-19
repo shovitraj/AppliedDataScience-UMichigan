@@ -1,1 +1,2 @@
-# AppliedDataScience-UMichigan
+# AppliedDSwithPython
+Coursera-UM
